@@ -1,4 +1,34 @@
 ===========This House believes that juveniles should be tried and treated as adults==============
 
 Definitions
+- Anyone noted as a juvenile is an individual who is under an age fixed by law (such as 18 years) at which he or she would be charged as an adult for a criminal act
 - In a legal context, "tried" means a legal case or a person accused of a crime has been examined and determined by a court of law. This involves a formal trial process where evidence is presented, and a judgment (guilty or not guilty) is made. 
+- In contrast to a juvenile, a legal adult is a person who has attained the age of majority and is therefore regarded as independent, self-sufficient, and responsible, and is equal to or over an age fixed by law (such as 18 years).
+
+Case Split
+
+Burden of Proof
+- The proposition must justify a fundamental shift in how the justice system treats young offenders, which basically means they must prove that equal punishment regardless of age is justified and effective.
+- The opposition must defend the status quo or propose minor reforms to avoid adopting the motion, which basically means they must prove that age-sensitive justice is more morally appropriate and practically effective.
+
+Legitimacy, Neccessity, and Efficacy
+Proposition
+- Juvenile offenders, particularly older teens, should be held accountable for their actions, as they can understand their consequences. Differentiating treatment may delegitimize the justice system and deprive victims of proportional justice. If a juvenile commits an adult crime, treating them the same as adults is legitimate.
+- With regards to neccessity, rising juvenile crime rates in some areas suggest an inadequate or lenient juvenile system. Stronger consequences can deter similar criminal behavior and ensure public safety by preventing dangerous individuals from being released back into society.
+- With regards to efficacy, stricter punishment for juveniles can improve rehabilitation and prevent system manipulation. It also streamlines legal processes and reduces strain on juvenile-specific infrastructure. Some juveniles exploit the lighter juvenile system, while adult systems can consolidate resources.
+
+Opposition
+- With regards to legitimacy, neurological science reveals juveniles' brains are not fully developed, making them less culpable. To ensure justice, the system must be age-sensitive and consider maturity levels. International norms like the UN Convention on the Rights of the Child recognize the need for distinct treatment.
+- With regards to neccessity, overreaching the juvenile justice system for all juveniles is unjustified, as only a small minority commit extreme crimes. Existing reforms, such as blended sentences and juvenile waivers, can be adjusted for serious cases. Addressing root causes like poverty, trauma, or abuse is crucial.
+- With regards to efficacy, juveniles incarcerated as adults face higher recidivism rates due to exposure to hardened criminals and lack of support. Adult prisons struggle to handle minors' developmental and psychological needs, and social reintegration failures occur due to stigma and trauma.
+
+Points
+Proposition
+- Juveniles, especially in their late teens (15–17), often understand right from wrong. When they commit premeditated crimes such as murder or rape, it reflects a degree of moral and cognitive awareness. Shielding them behind age excuses accountability and undermines the moral weight of the crime.
+- Juvenile detention centers often release offenders at 18 or 21, regardless of the severity of their crime. Trying them as adults allows longer, appropriate sentences that ensure dangerous individuals are not prematurely released into the public.
+- If juveniles know they can face adult-level consequences, they may be less likely to commit serious crimes. The threat of real prison time creates a more meaningful deterrent than the relatively soft punishments of juvenile court.
+
+Opposition
+- Scientific research shows juveniles' brains, particularly the prefrontal cortex (responsible for decision-making and impulse control), are not fully developed until their mid-20s. This means they are more prone to risk-taking, peer pressure, and poor judgment—making them less morally and legally culpable.
+- Global legal standards, like the UN Convention on the Rights of the Child, emphasize that children under 18 should be treated differently under the law. Trying juveniles as adults undermines international human rights commitments.
+- Many juvenile offenders come from troubled backgrounds—poverty, abuse, trauma, lack of education. The adult system doesn’t account for these contexts. It often disproportionately punishes minority and marginalized youth, reinforcing cycles of inequality.
